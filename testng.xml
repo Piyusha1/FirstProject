@@ -4,6 +4,8 @@
   <test name="Test">
     <classes>
       <class name="BasicDay1.basicdDay1"/>
+       <class name="BasicDay1.newTestCase"/>
+     
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="1" ignored="0" total="2" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="150" started-at="2021-07-03T19:51:59Z" finished-at="2021-07-03T19:51:59Z">
+  <suite name="Default suite" duration-ms="101" started-at="2021-07-04T15:09:31Z" finished-at="2021-07-04T15:09:31Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="150" started-at="2021-07-03T19:51:59Z" finished-at="2021-07-03T19:51:59Z">
+    <test name="Default test" duration-ms="101" started-at="2021-07-04T15:09:31Z" finished-at="2021-07-04T15:09:31Z">
       <class name="BasicDay1.basicdDay1">
-        <test-method status="PASS" signature="test1()[pri:0, instance:BasicDay1.basicdDay1@724af044]" name="test1" duration-ms="23" started-at="2021-07-03T19:51:59Z" finished-at="2021-07-03T19:51:59Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:BasicDay1.basicdDay1@724af044]" name="test1" duration-ms="17" started-at="2021-07-04T15:09:31Z" finished-at="2021-07-04T15:09:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="FAIL" signature="test2()[pri:0, instance:BasicDay1.basicdDay1@724af044]" name="test2" duration-ms="11" started-at="2021-07-03T19:51:59Z" finished-at="2021-07-03T19:51:59Z">
+        <test-method status="FAIL" signature="test2()[pri:0, instance:BasicDay1.basicdDay1@724af044]" name="test2" duration-ms="27" started-at="2021-07-04T15:09:31Z" finished-at="2021-07-04T15:09:31Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [11] but found [10]]]>

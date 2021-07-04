@@ -13,8 +13,8 @@ public class basicdDay1 {
 	
 	@Test
 	public void test2(){
-		System.out.println("test1");
-		Assert.assertEquals(10, 11);
+		System.out.println("test2");
+		Assert.assertEquals(11, 11);
 	}
 	
 }

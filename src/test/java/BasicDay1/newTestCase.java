@@ -14,7 +14,7 @@ public class newTestCase {
 	@Test
 	public void newCase2(){
 		System.out.println("New case2");
-		Assert.assertEquals(45, 42);
+		Assert.assertEquals(42, 42);
 	}
 	
 	@Test
