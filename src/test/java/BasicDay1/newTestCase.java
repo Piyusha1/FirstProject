@@ -16,5 +16,11 @@ public class newTestCase {
 		System.out.println("New case2");
 		Assert.assertEquals(45, 42);
 	}
+	
+	@Test
+	public void newCase3(){
+		System.out.println("New case3");
+		Assert.assertEquals("test", "test");
+	}
 
 }
